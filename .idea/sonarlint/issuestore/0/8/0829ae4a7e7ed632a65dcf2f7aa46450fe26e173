@@ -1,0 +1,8 @@
+
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(¼ÀÌû
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(Í¢ş
+P
+java:S1161":Add the "@Override" annotation above this method signature(åÉÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ç¶î
